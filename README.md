@@ -20,6 +20,9 @@ Satellite Status And Tracking
 
 ***./SSAT***
 
+
+![](https://img.shields.io/badge/Requirements-Curl-green)
+
 # Password and username
 
 Default Username is your loged username 
