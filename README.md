@@ -45,3 +45,9 @@ Here **root** is now your username
 ![](https://raw.githubusercontent.com/thelearn-tech/img/main/IMG_20210525_163325.jpg)
 
 ![](https://github.com/thelearn-tech/img/blob/main/IMG_20210525_163306.jpg)
+
+# Tested on 
+
+**Termux** on android 10
+
+**lubantu 18.04 LTS**
