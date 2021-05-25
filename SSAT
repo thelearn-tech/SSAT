@@ -7,7 +7,7 @@ uname_value=$(whoami)  #username
 time=$(date)
 
 #for text password replace $(uname -n) to "yourPassword"  
-#for text username replace $(whoami) to "yourPassword"
+#for text username replace $(whoami) to "yourUsername"
 
 banner() {
 	echo -e "\033[1;33m"
